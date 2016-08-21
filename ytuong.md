@@ -25,13 +25,15 @@
 
 
 ###Chia sẻ tài liệu
-+ Chia sẻ tài liệu
-+ gợi ý khi có tài liệu liên quan mà đang yêu cầu
-+ móc nối sinh viên khóa trước để nhận được tài liệu
++ Hệ thống cho phép mọi người dùng có thể chia sẻ tài liệu của mình lên, nếu có sự xuất hiện của tài liệu này trên hệ thông rồi thì hỏi lại người dung có chắc chắn muốn đăng tải tài liệu hay không. Đồng thời, dựa vào thông tin, thuộc tính, nội dung của tài liệu mà hệ thống đưa ra gợi ý phân loại tài liệu giúp người dùng.
++ Khi bất cứ thành viên nào cần tìm kiếm tài liệu, hệ thống sẽ hỗ trợ tối đa người dùng bằng sự phân tích nhu cầu của người dùng dựa vào thói quen gần đây của người dùng và đưa ra một số câu hỏi nhằm trợ giúp việc tìm kiếm tài liệu của người dùng dễ dàng nhất có thể.
++ Ngoài ra, để dễ dàng hơn trong việc chia sẻ tài liệu, hệ thống sẽ giới thiệu bạn bè cho sinh viên nào mà cần tài liệu. Hệ thống sẽ móc nối sinh viên khóa trước để có thể giúp sinh viên khóa dưới hoặc sinh viên sẽ, đang cần tài liệu cho môn học nào đó.
++ Để tránh spam cũng như tài liệu không mong muốn được đăng tải lên hệ thống, tài liệu sẽ được quét trước khi đăng tải lên hệ thống, nếu có nghi vấn gì về tài liệu thì hệ thống sẽ yêu cầu quản trị hệ thống kiểm duyệt tài liệu để cho phép tài liệu được đăng tải thành công hoặc hủy bỏ việc đăng tải tài liệu.
 
 ###Đánh giá giáo viên
-+ Gần giống với phiếu đánh giá giáo viên cuối mỗi môn học mà trường thỉnh thoảng khảo sát (theo từng môn học, lớp học), tránh tiêu cực.
-+ Đánh giá của sinh viên không được công khai.
++ Gần giống với phiếu đánh giá giáo viên cuối mỗi môn học mà trường thỉnh thoảng khảo sát (theo từng môn học, lớp học), tránh tiêu cực. Cách đánh giá như sau: yêu cầu sinh viên trả lời một số câu hỏi bắt buộc như thông tin về môn học, giáo viên, một số câu hỏi về tình trạng riêng khác; cuối cùng là đánh giá theo số điểm (thang điểm 10) hoặc đánh giá theo dấu sao (5 sao).
++ Đánh giá của sinh viên không được công khai. Các đánh giá của sinh viên sẽ được lưu trữ nhưng không được công khai cũng như thông tin về sinh viên đánh giá cũng được bảo mật tuyệt đối.
++ Các thông tin đánh giá giáo viên sẽ được gửi lên cho Giáo viên và Bộ phận liên quan về quản lý giáo viên.
 
 ###Thông báo CLB, Phòng Ban, Tổ chức
 + Hỗ trợ thông báo cho các phòng ban, tổ chức, quản lý chia sẻ thông tin PR cho nhau.
