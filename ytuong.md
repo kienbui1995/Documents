@@ -16,10 +16,12 @@
 ###Đánh giá giáo viên
 + Gần giống với phiếu đánh giá giáo viên cuối mỗi môn học mà trường thỉnh thoảng khảo sát (theo từng môn học, lớp học), tránh tiêu cực.
 + Đánh giá của sinh viên không được công khai.
-###Thông báo CLB, Phòng Ban, Tổ chức
-+Hỗ trợ thông báo cho các phòng ban, tổ chức, quản lý chia sẻ thông tin PR cho nhau.
 
-Xu hướng (giải trí) trong trường, thống kê mức độ quan tâm của người dùng
-Xây dựng bộ lọc ngôn từ, chặn đường dẫn xấu
-Hỗ trợ tạo môn học, quản lý page môn học, tư vấn môn học
+###Thông báo CLB, Phòng Ban, Tổ chức
++ Hỗ trợ thông báo cho các phòng ban, tổ chức, quản lý chia sẻ thông tin PR cho nhau.
++ Gơi ý thông tin cần thiết cho phòng ban
+
+Xu hướng (giải trí) trong trường, thống kê mức độ quan tâm của người dùng.
+Xây dựng bộ lọc ngôn từ, chặn đường dẫn xấu.
+Hỗ trợ tạo môn học, quản lý page môn học, tư vấn môn học.
 Hệ thống hướng đối tượng người dùng
