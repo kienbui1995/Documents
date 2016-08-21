@@ -1,4 +1,4 @@
-# DỰ ÁN MẠNG XÃ HỘI DÀNH CHO GIÁO DỤ ĐẠI HỌC (THANGLONG UNIVERSITY)
+# DỰ ÁN MẠNG XÃ HỘI GIÁO DỤC ĐẠI HỌC (THANGLONG UNIVERSITY)
 
 ## MỤC LỤC
 [Lời nói đầu](https://github.com/thang-long-social-network/Documents/blob/master/loimodau.md)
