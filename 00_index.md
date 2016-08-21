@@ -5,9 +5,8 @@
 
 [Giới thiệu nhóm phát triển](https://github.com/thang-long-social-network/Documents/blob/master/nhomphattrien.md)
 
-Chương 1. [Tổng quan bài toán]()
+Chương 1. Tổng quan bài toán
 
-1. Thực trạng
 
 Chương 2. Biểu mục thuật ngữ
 
