@@ -11,12 +11,8 @@ hệ tư vấn (Recommendation System).
 Tài liệu
 -------------------
 
-  * [Dự án](00_index.md)
-  * [Data model](doc/model.md)
-  * [Database](doc/data.md)
-  * [Provisioning](doc/provisioning.md)
-  * [Git Workflow](doc/git-workflow.md)
-  * [Environments](doc/environments.md)
+  * [Mục lục](00_index.md)
 
-Thành viên và Cộng tác viên tham gia dự án [Xem tại đây](nhomphattrien.md)
+Thành viên và Cộng tác viên tham gia dự án
 ------------
+ * [Danh sách lập trình viên đóng góp](nhomphattrien.md)
