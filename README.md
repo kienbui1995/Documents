@@ -18,3 +18,9 @@ Thành viên và Cộng tác viên tham gia dự án
 ------------
  * [Danh sách lập trình viên đóng góp](nhomphattrien.md)
 
+Môi trường phát triển
+---------------------
+ * Linux OS
+ * PHP, Js, noSQL,..
+ * Python, sklearn lib, java
+ * API Facebook
