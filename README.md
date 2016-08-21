@@ -1,4 +1,4 @@
-DỰ ÁN MẠNG XÃ HỘI VỀ GIÁO DỤC - ĐẠI HỌC THĂNG LONG
+DỰ ÁN MẠNG XÃ HỘI GIÁO DỤC - ĐẠI HỌC THĂNG LONG
 ===================
 
 Dự án mạng xã hội giáo dục là một dự án opensource về giáo dục (education), có những chức năng tiện ích có thể trợ giúp, tư vấn và hỗ trợ sinh viên, giảng viên và nhà trường tới mức tối đa thay thế phần nào chức năng của Facebook - một mạng xã hội cho thấy tính kém hiệu quả về lĩnh vực giáo dục. Mạng xã hội chúng tôi xây dựng sẽ chỉ tập trung tại một trường đại học, cụ thể là **Đại học Thăng Long**, nó sẽ giúp kết nối sinh viên,giáo viên và nhà trường gần nhau hơn và mọi thứ trở nên mở
