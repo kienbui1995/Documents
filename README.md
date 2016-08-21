@@ -1,4 +1,4 @@
-DỰ ÁN MẠNG XÃ HỘI VỀ GIÁO DỤC (ĐẠI HỌC THĂNG LONG)
+DỰ ÁN MẠNG XÃ HỘI VỀ GIÁO DỤC - ĐẠI HỌC THĂNG LONG
 ===================
 
 Đây là một dự án opensource về giáo dục (education), mong muốn của chúng tôi về dự án này là có thể xây dựng
@@ -7,6 +7,9 @@ muốn giới hạn trong một tổ chức giáo dục, giúp cho người sử
 giảng viên,... Trong dự án này chúng tôi kết hợp với bài khai phá mạng xã hội (Social Mining) để phát triển
 hệ tư vấn (Recommendation System).
 
+<p align="center">
+ <img src="https://github.com/thang-long-social-network/Documents/blob/master/img/thanglong.png" width="200px" />
+</p>
 
 Tài liệu
 -------------------
@@ -16,3 +19,4 @@ Tài liệu
 Thành viên và Cộng tác viên tham gia dự án
 ------------
  * [Danh sách lập trình viên đóng góp](nhomphattrien.md)
+
