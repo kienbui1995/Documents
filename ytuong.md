@@ -19,6 +19,7 @@
 + Kết thúc mỗi kỳ trường thường khảo sát sinh viên về chất lượng giảng dạy của môn học, thì hệ thống này có thể làm điều đó một cách tốt, chính xác nhất. Để đánh giá được chất lượng của giáo viên với môn học, hệ thống dựa trên rất nhiều tiêu chí, ngoài phiếu khảo sát online ẩn sau khi hết mỗi kỳ học, hệ thống sẽ dựa trên mức độ học tập của sinh viên dựa trên sự tương tác môn học với hệ thống. Ngoài ra hệ thống còn có thể hiểu và tóm lược được những đóng góp ý kiến của sinh viên gửi về cho giáo viên và nhà trường nhằm cải thiển chất lượng giảng dạy <tất cả những bình luận đánh giá môn học và giảng viên đều được ẩn với người khác và được hệ thống kiểm duyệt phát hiện hành vi không trung thực dựa trên thống kê>
 + Cũng chính vì hệ thống hiểu hết các hành vi của người dùng nên ban lãnh đạo, tổ chức,... có thể biết hành vi, thái độ,.. của sinh viên khi trường đưa ra những chính sách mới để có biện pháp kịp thời.
 ***Luôn để người dùng ở thế bị động*** => níu kéo người dùng ở lại với hệ thống.
+
 ***Mạng xã hội hướng đối tượng người sử dụng đến những vấn đề họ cần một cách chủ động ***
 
 ###Chia sẻ tài liệu
