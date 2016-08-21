@@ -15,6 +15,7 @@ Tài liệu
 -------------------
 
   * [Mục lục](00_index.md)
+  * [Danh sách ý tưởng](ytuong.md)
 
 Thành viên và Cộng tác viên tham gia dự án
 ------------
