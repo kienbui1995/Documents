@@ -11,6 +11,7 @@ Dự án mạng xã hội giáo dục là một dự án opensource về giáo d
 - [Telegram](https://telegram.me/joinchat/BfmH40DKhfO_CW8OHxNbiQ)
 - [Hangout](event.livefb.me): 22h00 hàng ngày
 - Thảo luận offline 17h30 - 19h30 Thứ 2 - 6 hàng tuần tại seminar 5th|ĐH Thăng Long
+
 ## Tài liệu
 
 - [Mục lục](00_index.md)
