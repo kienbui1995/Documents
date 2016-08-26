@@ -13,6 +13,7 @@
     * ...
     
 2. Môi trường làm việc
+
   **OS**
     * Linux|Ubuntu 16.04
     
@@ -27,6 +28,7 @@
     
   **Lib**
     * Sklearn kit (python)
+    
 3. Kế hoạch
 
   **Thời gian:** 9/2016-2/2017
