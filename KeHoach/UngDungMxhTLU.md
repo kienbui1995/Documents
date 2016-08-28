@@ -44,8 +44,10 @@ Dựa trên những cuộc khảo sát và nhu cầu thực tế từ những si
 
 ### **V. Khó khăn **
 + Làm thế nào để xác định 1 sinh viên đúng với mỗi mã sinh viên và tài khoản trên hệ thống?
+
 > **Phương án**:
 Xác thực qua giảng viên và định danh chính xác sinh viên, những ai chưa xác thực chỉ có thể sử dụng một số tính năng
+
 + Có nên làm chức năng chat?
 + Việc chia sẻ tài liệu chưa rõ cách thức chia sẻ như thế nào, đối tượng thấy tài liệu như thế nào?
 + Báo cáo thống kê cho nhà trường sẽ gồm những thông tin gì?
