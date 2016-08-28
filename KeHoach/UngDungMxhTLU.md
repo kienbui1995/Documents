@@ -42,11 +42,12 @@ Dựa trên những cuộc khảo sát và nhu cầu thực tế từ những si
   + Thiết kế cơ sở dữ liệu
   + Viết tài liệu tổng thể hệ thống Mạng xã hội
 
-### **V. Khó khăn **
+### **V. Khó khăn**
 + Làm thế nào để xác định 1 sinh viên đúng với mỗi mã sinh viên và tài khoản trên hệ thống?
 
 > **Phương án**:
-Xác thực qua giảng viên và định danh chính xác sinh viên, những ai chưa xác thực chỉ có thể sử dụng một số tính năng
+Xác thực qua giảng viên và định danh chính xác sinh viên, những ai chưa xác thực chỉ có thể sử dụng một số tính năng.
+Tính năng "repost to admin" phát hiện các đối tượng giả danh.
 
 + Có nên làm chức năng chat?
 + Việc chia sẻ tài liệu chưa rõ cách thức chia sẻ như thế nào, đối tượng thấy tài liệu như thế nào?
