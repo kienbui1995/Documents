@@ -53,8 +53,9 @@ Xác thực qua giảng viên và định danh chính xác sinh viên, những a
 ____
 
 ## Kế hoạch tuần 2 (29/8 -> 4/8/2016)
-+ Tiếp tục hoàn thiện các chức năng và giải quyết những khó khăn gặp phải ở [Phần 5]()
++ Tiếp tục hoàn thiện các chức năng và giải quyết những khó khăn gặp phải ở [Phần 5](https://github.com/SENf-TLU/Documents/blob/master/KeHoach/UngDungMxhTLU.md#v-khó-khăn-)
 + Bắt đầu tìm hiểu Android và Java
 ___
+
 ## Lịch sử tài liệu theo tuần
 * [Tuần 1](https://github.com/SENf-TLU/Documents/commit/48f8b71339fa341c7b11a871b1a0a272e6096199)
