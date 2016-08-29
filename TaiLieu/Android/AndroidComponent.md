@@ -11,9 +11,11 @@ Broadcast Receivers | Thành phần sẽ giao tiếp giữa Android OS và ứng
 Content Providers | Thành phần sẽ xử lý dữ liệu và quản lý database
 
 ## Activities
-    Một activity sẽ hiển thị một màn hình đơn với giao diện người dùng, nó cho phép thực hiện những hành động trên màn hình. Ví dụ, một ứng dụng email thì sẽ có 1 activity có thể hiển thị danh sách thư mới, một cái khác có thể soạn thảo emailm hoặc một cái nữa có thể đọc email. Nếu ứng dụng nó nhiều hơn 1 activity thì bạn phải chọn 1 activity mặc định sẽ hiển thị đầu tiên khi ứng dụng được khởi động
+
+Một activity sẽ hiển thị một màn hình đơn với giao diện người dùng, nó cho phép thực hiện những hành động trên màn hình. Ví dụ, một ứng dụng email thì sẽ có 1 activity có thể hiển thị danh sách thư mới, một cái khác có thể soạn thảo emailm hoặc một cái nữa có thể đọc email. Nếu ứng dụng nó nhiều hơn 1 activity thì bạn phải chọn 1 activity mặc định sẽ hiển thị đầu tiên khi ứng dụng được khởi động
 
 Một activity thì được mở rộng là một lớp con của **Activity** cha theo cú pháp
+
 ```java
 public class MainActivity extends Activity {
 
