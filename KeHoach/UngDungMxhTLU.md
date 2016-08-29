@@ -47,7 +47,7 @@ Dựa trên những cuộc khảo sát và nhu cầu thực tế từ những si
 
 > **Phương án**:
 Xác thực qua giảng viên và định danh chính xác sinh viên, những ai chưa xác thực chỉ có thể sử dụng một số tính năng.
-Tính năng "repost to admin" phát hiện các đối tượng giả danh.
+Tính năng "report to admin" phát hiện các đối tượng giả danh.
 
 + Có nên làm chức năng chat?
 + Việc chia sẻ tài liệu chưa rõ cách thức chia sẻ như thế nào, đối tượng thấy tài liệu như thế nào?
