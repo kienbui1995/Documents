@@ -63,13 +63,22 @@
 + #### 2.17.2. Quản lý thông báo
  + Chức năng này dành cho giảng viên, họ có thể xem thông báo đã gửi, gửi thông báo về các vấn đề liên quan tới môn học cho toàn bộ sinh viên hoặc cho từng sinh viên và nhóm sinh viên
 
-2.17.3. Liên hệ sinh viên
-2.17.4. Quản lý thảo luận
-2.17.5. Quản lý điểm danh
-2.18. Xác thực sinh viên
-2.19. Quản lý nhóm môn học
-2.19.1. Đánh giá môn học
-2.19.2. Thảo luận môn học
++ #### 2.17.3. Liên hệ sinh viên
+ +
+
++ #### 2.17.4. Quản lý thảo luận
+  + Chức năng dành cho sinh viên và giảng viên, chức năng này dành áp dụng cho mỗi môn học mà giảng viên và sinh viên tham gia trong kì. Người dùng có tạo thảo luận, chỉnh sửa , xóa bài viết và thảo luận và bài trả lời. Đối với giảng viên, có thể xóa tất cả các bài viết trong lớp học.
++ #### 2.17.5. Quản lý điểm danh
+  + Chức năng dành cho giảng viên cho giáo viên, giáo viên sẽ có danh sách sinh viên trong kì , hệ thống sẽ dựa vào tuần học hiện tại của môn học để hiển thị ra danh sách sinh viên để giảng viên có thể điểm danh theo từng tuần. Hệ thống cũng hỗ trợ giảng viên điểm danh những ai chưa điểm danh một cách dễ dàng
+
+### 2.18. Xác thực sinh viên
+
+### 2.19. Quản lý nhóm môn học
+  Chức năng dành sinh viên có thể xem đánh giá môn học và tham gia thảo luận về các môn học trong trường. Bất kề người dùng nào cũng có thể xem và tham gia thảo luận.
++ #### 2.19.1. Đánh giá môn học
+  Mỗi một môn học trong trường đều có thể được đánh giá, những người đã từng học 
++ #### 2.19.2. Thảo luận môn học
+
 2.20. Quản lý đăng ký học
 2.20.1. Quản lý thông báo đăng ký học
 2.20.2. Quản lý đăng ký học nháp
