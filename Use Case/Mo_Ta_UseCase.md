@@ -76,7 +76,7 @@
 ### 2.19. Quản lý nhóm môn học
   Chức năng dành sinh viên có thể xem đánh giá môn học và tham gia thảo luận về các môn học trong trường. Bất kề người dùng nào cũng có thể xem và tham gia thảo luận.
 + #### 2.19.1. Đánh giá môn học
-  Mỗi một môn học trong trường đều có thể được đánh giá, những người đã từng học 
+  Mỗi một môn học trong trường đều có thể được đánh giá, những người đã từng học
 + #### 2.19.2. Thảo luận môn học
 
 2.20. Quản lý đăng ký học
