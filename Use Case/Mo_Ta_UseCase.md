@@ -53,10 +53,16 @@
 2.16.6. Quản lý cài đặt
 2.16.7. Quản lý bài viết
 
-Các chức năng thuộc mảng học tập
-2.17. Quản lý lớp học
-2.17.1. Quản lý sinh viên
-2.17.2. Quản lý thông báo
+### Các chức năng thuộc mảng học tập
+#### 2.17. Quản lý lớp học
+- Chức năng dành cho sinh viên và giảng viên có thể quản lý những lớp học mà mình đã học và dạy, cụ thể sẽ có một số chức năng như quản lý thông báo, liên hệ sinh với sinh viên, đánh giá môn học, quản lý điểm danh, thảo luận các vấn đề liên quan tới lịch học và phòng học. Đặc biệt có thể xem được ca học và phòng học
+
++ ##### 2.17.1. Quản lý sinh viên
+  + Quản lý sinh viên, chức năng dành cho giảng viên khi họ muốn quản lý sinh viên trong lớp học mà họ sẽ giảng dạy trong kì. Mục đích có thể dễ dàng kiểm soát được sinh viên trong lớp để liên lạc và điểm danh
+
++ #### 2.17.2. Quản lý thông báo
+ + Chức năng này dành cho giảng viên, họ có thể xem thông báo đã gửi, gửi thông báo về các vấn đề liên quan tới môn học cho toàn bộ sinh viên hoặc cho từng sinh viên và nhóm sinh viên
+
 2.17.3. Liên hệ sinh viên
 2.17.4. Quản lý thảo luận
 2.17.5. Quản lý điểm danh
