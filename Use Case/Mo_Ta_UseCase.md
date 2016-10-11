@@ -1,35 +1,60 @@
 # Mô tả UseCase
 
 **2.1. Đăng ký**
+
 Chức năng cho phép người sử dụng chưa có tài khoản trên hệ thống có thể đăng ký tài khoản để sử hệ thống.
+
 **2.1.1. Đăng ký bằng FB**
+
 Chức năng cho phép người dùng đăng ký tài khoản bằng cách sử dụng tài khoản FB để đk tài khoản trên hệ thống. Hệ thống sẽ sử dụng avatar, Tên, email, giới tính,.. các thông tin này người dùng có thể chỉnh sửa, các thông tin khác người dùng sẽ tự nhập như lựa chọn vai trò của mình trên mạng xã hội rồi điền Mã sinh viên hoặc mã giảng viên,...
+
 **2.1.2. Đăng ký qua Form**
+
 Chức năng cho phép người dùng nhập thông tin đăng nhập và một số thông tin cá nhân  (không bắt buộc).
+
 **2.2. Đăng nhập**
+
 Có thể đăng nhập bằng 3 cách:
 - Qua facebook.
 - Qua Mã sinh viên hoặc mã giảng viên, mã nhân viên.
 - Qua Username, password.
 
 **2.2.1. Đăng nhập bằng FB**
+
 Sử dụng tài khoản FB để đăng nhập hệ thống.
+
 **2.2.2. Đăng nhập qua giao diện**
+
 Sử dụng Username hoặc Mã sinh viên hoặc mã giảng viên hoặc mã nhân viên.
+
 **2.2.3. Quên mật khẩu**
+
 Chức năng cho phép người sử dụng cấp lại mật khẩu thông qua email.
+
 **2.3. Quản lý thiết đặt**
+
 Chức năng cho phép người sử dụng quản lý các thiết đặt cho tài khoản của mình cũng như ứng dụng trên hệ thống của mình.
+
 **2.3.1. Quản lý liên kết**
+
 Quản lý liên kết tới FB và mã sinh viên, giảng viên, nhân viên.
+
 **2.3.1.1. Liên kết tới FB**
+
 Cho phép liên kết với tài khoản FB, người dùng có thể unlink tới tài khoản fb đó và liên kết tơi tài khoản fb mới, khi liên kết tới tài khoản fb mới thì sẽ đưa ra gợi ý có thay đổi thông tin liên quan tới FB như avatar email.
+
 **2.3.1.2. Liên kết tới StudentCode**
+
 Khi chưa xác thực thì người dùng có thể thay đổi mã này(sinh viên, giảng viên, nhân viên). còn khi đã xác thực thì không thể thay đổi được. Mã này cũng được định danh duy nhất trên hệ thống và cũng định danh duy nhât cho từng người.
+
 **2.3.2. Cá nhân hóa tài khoản**
+
 Quản lý các công việc, thông tin liên quan tới tài khoản và ứng dụng trên điện thoại di động.
+
 **2.3.2.1. Quản lý thông tin cá nhân**
+
 Chỉnh sửa các thông tin cá nhân và các thông tin về email và mật khẩu.
+
 **2.3.2.2. Quản lý các thiết lập của ứng dụng**
 
 **2.3.3. Quản lý quyền riêng tư**
