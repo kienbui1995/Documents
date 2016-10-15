@@ -40,7 +40,7 @@
 
 - #### 2.17.5\. Quản lý điểm danh
 
-  - Chức năng dành cho giảng viên cho giáo viên, giáo viên sẽ có danh sách sinh viên trong kì , hệ thống sẽ dựa vào tuần học hiện tại của môn học để hiển thị ra danh sách sinh viên để giảng viên có thể điểm danh theo từng tuần. Hệ thống cũng hỗ trợ giảng viên điểm danh những ai chưa điểm danh một cách dễ dàng
+  - Chức năng dành cho giảng viên, giáo viên sẽ có danh sách sinh viên trong kì , hệ thống sẽ dựa vào tuần học hiện tại của môn học để hiển thị ra danh sách sinh viên để giảng viên có thể điểm danh theo từng tuần. Hệ thống cũng hỗ trợ giảng viên điểm danh những ai chưa điểm danh một cách dễ dàng
 
 ### 2.18\. Xác thực sinh viên
 
@@ -72,19 +72,27 @@ Chức năng dành sinh viên có thể xem đánh giá môn học và tham gia 
 
 #### 2.21\. Quản lý lớp học của sinh viên
 
-Chức năng này dành cho sinh viên khi họ đã tham gia vào một lớp học trong kì. Sinh viên sẽ có chức năng tham gia vào nhóm chat với các thành viên trong lớp, tạo những cuộc thảo luận ,điểm danh
+Chức năng này dành cho sinh viên khi họ đã tham gia vào một lớp học trong kì. Sinh viên sẽ có chức năng tham gia vào nhóm chat với các thành viên trong lớp, tạo những cuộc thảo luận ,điểm danh cũng như cài đặt cho lớp học
 
 - #### 2.21.1\. Quản lý chat nhóm cả lớp học
 
+  Chức năng dành cho sinh viên và (giảng viên), ở mỗi một lớp học sẽ có 1 phòng chat nhóm, nơi mọi người có thể trao đổi trực tuyến với thời gian thực. Chương trình chat còn hỗ trợ emoji kho chat. Trong chat nhóm cũng có nhiều cài đặt cho người dùng. Để xem và chat được trong nhóm chat người dùng phải tham gia vào nhóm, nếu không thì sẽ không thấy và chat đươc. Khi đã vào nhóm chat, tất cả các message chưa đọc sẽ hiện lên thanh thông báo, nếu ko muốn nhận tin nhắn trong nhóm chát có thể cài đặt ẩn thông báo
+
 - #### 2.21.2\. Quản lý thảo luận lớp học
 
-- #### 2.21.3\. Quản lý nhóm sinh viên
+  Chức năng dành cho sinh viên và giảng viên, họ có thể tạo ra những cuộc thảo luận với chủ đề cụ thể, và có thể bình luận ở bất cứ bài viết nào. Những chủ đề nào được bình luận gần nhất sẽ hiển thị lên đầu. Giảng viên sẽ có quyền xóa các bài viết ko hợp lệ.
+
+- #### 2.21.3\. Quản lý nhóm bài tập lớn sinh viên
 
 - #### 2.21.4\. Quản lý cài đặt
 
+  Trong phần cài đặt người dùng có thể chỉnh số cài đặt như các tính năng thông báo về lớp học, phòng chát.
+
 - #### 2.21.5\. Quản lý diểm danh
 
-## Các chức năng của quản trị hệ thống
+  Chức năng dành cho sinh viên và giảng viên. Đối với giảng viên thì hệ thống sẽ giúp cho giảng viên có thể điểm danh sách sinh viên trong lớp mà giảng viên đó dạy trong kì. Mỗi môn lớp sẽ có một bảng điểm danh riêng. Bảng điểm danh sẽ được chia thành 9 tuần, dựa vào thời gian hiện tại thì sẽ điểm danh tuần nào của lớp nào. Khi vào chức năng điểm danh thì hệ thống sẽ hiển thị danh sách sinh viên của lớp đó kèm theo ảnh hoặc tên và sinh viên ,
+
+  ## Các chức năng của quản trị hệ thống
 
 ### 2.22\. Quản lý nhóm người dùng
 
