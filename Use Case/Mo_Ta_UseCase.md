@@ -1,12 +1,14 @@
 # Mô tả UseCase
 
-**2.1\. Đăng ký** Chức năng cho phép người sử dụng chưa có tài khoản trên hệ thống có thể đăng ký tài khoản để sử hệ thống. **2.1.1\. Đăng ký bằng FB** Chức năng cho phép người dùng đăng ký tài khoản bằng cách sử dụng tài khoản FB để đk tài khoản trên hệ thống. Hệ thống sẽ sử dụng avatar, Tên, email, giới tính,.. các thông tin này người dùng có thể chỉnh sửa, các thông tin khác người dùng sẽ tự nhập như lựa chọn vai trò của mình trên mạng xã hội rồi điền Mã sinh viên hoặc mã giảng viên,... **2.1.2\. Đăng ký qua Form** Chức năng cho phép người dùng nhập thông tin đăng nhập và một số thông tin cá nhân (không bắt buộc). **2.2\. Đăng nhập** Có thể đăng nhập bằng 3 cách:
+**2.1\. Đăng ký** Chức năng cho phép người sử dụng chưa có tài khoản trên hệ thống có thể đăng ký tài khoản để sử hệ thống.
+**2.1.1\. Đăng ký bằng FB** Chức năng cho phép người dùng đăng ký tài khoản bằng cách sử dụng tài khoản FB để đk tài khoản trên hệ thống. Hệ thống sẽ sử dụng avatar, Tên, email, giới tính,.. các thông tin này người dùng có thể chỉnh sửa, các thông tin khác người dùng sẽ tự nhập như lựa chọn vai trò của mình trên mạng xã hội rồi điền Mã sinh viên hoặc mã giảng viên,...
+**2.1.2\. Đăng ký qua Form** Chức năng cho phép người dùng nhập thông tin đăng nhập và một số thông tin cá nhân (không bắt buộc).
+**2.2\. Đăng nhập** Có thể đăng nhập bằng 3 cách:
 
 - Qua facebook.
 - Qua Mã sinh viên hoặc mã giảng viên, mã nhân viên.
 - Qua Username, password.
 
-<<<<<<< HEAD
 **2.2.1. Đăng nhập bằng FB**
 Sử dụng tài khoản FB để đăng nhập hệ thống.
 **2.2.2. Đăng nhập qua giao diện**
@@ -28,12 +30,13 @@ Chỉnh sửa các thông tin cá nhân và các thông tin về email và mật
 **2.3.2.2. Quản lý các thiết lập của ứng dụng**
 
 **2.3.3. Quản lý quyền riêng tư**
-  + quản lý các bài post tiếp theo sẽ tự động ở chế độ nào (public, friends, only me, custom friends groups).
+  + quản lý các bài post tiếp theo sẽ tự động ở chế độ nào (public, friends, only me).
   + ai có thể kết bạn với bạn
   + ai có thể theo dõi bạn
   + ai có thể thấy bạn thông qua mã sinh viên, mã giảng viên, mã nhân viên.
   + ai có thể thấy bạn thông qua fb.
   + ai có thể thấy bạn thông qua email, số điện thoại.
+
 
 **2.4. Quản lý bạn bè**
 Chức năng cho phép nsd quản lý bạn bè và các mối quan hệ bạn bè.
@@ -137,8 +140,6 @@ quản lý các bài viết trên page: thêm sửa xóa
 ## Các chức năng thuộc mảng học tập
 
 ### 2.17\. Quản lý lớp học
-
->>>>>>> 72ff9e502fc9a35c32e131aea160c874e42c4058
 - Chức năng dành cho sinh viên và giảng viên có thể quản lý những lớp học mà mình đã học và dạy, cụ thể sẽ có một số chức năng như quản lý thông báo, liên hệ sinh với sinh viên, đánh giá môn học, quản lý điểm danh, thảo luận các vấn đề liên quan tới lịch học và phòng học. Đặc biệt có thể xem được ca học và phòng học
 
 - ##### 2.17.1\. Quản lý sinh viên
