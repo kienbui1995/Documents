@@ -1,4 +1,4 @@
-## DANH SÁCH Ý TƯỞNG
+## DANH SÁCH Ý TƯỞNG bui manh kien
 =======================
 
 ***Bài toán đặt ra:*** Theo khảo sát mà chúng tôi mới thực hình cho thầy rằng các bạn sinh viên trường Đại học Thăng Long rất cần một hệ thống có thể kết nối mạnh mẽ hơn giữa họ với trường, giáo viên, môn học, với mọi vấn đề trong trường. Vì vậy chúng tôi lập ra dự án này mong muốn xây dựng một mạng xã hội thông mình, hiểu người dùng trong lĩnh vực giáo dục.
