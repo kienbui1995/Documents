@@ -1,0 +1,26 @@
+Thêm ph?n qu?n lý favourite
+Admin page: phân c?p lo?i admin: Admin full quy?n trên page và admin vi?t n?i dung.
+Page chính ch? "Thang Long" có ch?c nang g?i thông báo toàn b? sinh viên (thông báo d?c bi?t). Nh?ng page follow bình thu?ng th?y newFeed bình thu?ng.
+Page có 2 lo?i, 1 lo?i sinh viên t? follow và lo?i b?t bu?c sinh viên follow(theo khoa, b? môn).
+Page có thông tin:
+Trang chính: List bài vi?t + tuong tác.
+About:
+Photo: L?c các photo có t? bài vi?t.
+
+Page: có ch?c nang thông báo (ch?n d?i tu?ng t?ng sinh viên ho?c nhóm sinh viên).
+---
+Sinh viên:
+Th?i khóa bi?u, l?ch thi (Th?i gian bi?u): T?m th?i chua liên k?t calendar, s? ki?n có th? do chính viên , màn hình hi?n thì 7 ngày trong tu?n t? ngày a- ngày b;
+Hi?n t?i ch? c?n hi?n th? th?i khóa bi?u, l?ch thi l?y t? CSDL; L?ch thi l?y t? d? li?u hi?n th? b?ng.
+Ðang ký h?c nháp: C?n nhìn t?ng quan d? 7 ngày. Các có 10 ô/7 ngày. c?n ch?n kì. Sinh viên có th? ch?n ô b?t kì d? hi?n th? ch?n môn h?c phù h?p d? dang ký nháp th?.
+Môn h?c ch?n nháp có th? cài d?t màu.
+Khi có d? li?u v? l?ch h?c kì m?i thì có th? dang ký h?c nháp.
+Ði?m danh: có th? di?m danh = QR code; Mã,... m?t thi?t b? di?m danh m?t l?n. giáo viên di?m danh b?ng cách ch?p th? sinh viên ho?c gi?ng viên th? công, b?ng di?m danh công khai cho m?i sinh viên.
+Sinh viên di?m danh sau gi?ng viên có th? s?a.
+---
+Gi?ng viên:
+Ði?m danh: Gi?ng viên ch?n ki, ch?n l?p . M?c d?nh hi?n th? l?p tu?n hi?n t?i.
+Thông tin l?p h?c: tên l?p, th?i gian lên l?p + s? s?
+Danh sách sinh viên hi?n lên:
+Sinh viên dã di?m danh: hi?n ?nh; Chua di?m danh: màu xám; Ngh? có phép: màu sáng,.. danh sách sinh viên s?p x?p theo mã sinh viên, tên
+Danh sách sinh viên: STT, MÃ, Tên, Th? (1 tu?n 2 ho?c 3 bu?i h?c), Tu?n 1, tu?n 2,..., Tu?n 9, T?ng.
